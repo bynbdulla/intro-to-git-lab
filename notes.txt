@@ -24,13 +24,13 @@ PART 1: HTML
 
 1. In your own words, what kind of things can HTML put on a web page?
 
-ANSWER:
+ANSWER: images , animation , text , tables
 
 ======================================================================
 
 2. What does HTML stand for?
 
-ANSWER:
+ANSWER: Hypertext markup language
 
 ======================================================================
 
@@ -38,11 +38,11 @@ ANSWER:
 
 Which tag did you choose?
 
-ANSWER:
+ANSWER: h1
 
-What does that tag do?
+What does that tag do? 
 
-ANSWER:
+ANSWER: the biggest heading the page
 
 ======================================================================
 
@@ -50,7 +50,7 @@ ANSWER:
 
 <p>Hello world!</p>
 
-ANSWER:
+ANSWER: 2 tags
 
 ======================================================================
 
@@ -59,19 +59,19 @@ ANSWER:
 
 <h1>Welcome to my website</h1>
 
-ANSWER:
+ANSWER: <h1></h1> are the tags , "Welcome to my website" is the content 
 
 ======================================================================
 
 6. How does a closing tag differ from an opening tag?
 
-ANSWER:
+ANSWER: the closing tag has / while the opening not 
 
 ======================================================================
 
 7. What is the difference between a tag and an element
 
-ANSWER:
+ANSWER: the tag shows where elements start and where ends, while the element is the tags and the contents 
 
 ======================================================================
 
@@ -79,20 +79,20 @@ PART 2: CSS
 
 8. In your own words, what is the main job of CSS?
 
-ANSWER:
+ANSWER: styling and present the page in proper way 
 
 ======================================================================
 
 9. What does CSS stand for?
 
 
-ANSWER:
+ANSWER: cascading style sheets
 
 ======================================================================
 
 10. A developer can put CSS in a separate CSS file.  Why might this be helpful when building a website?
 
-ANSWER:
+ANSWER: u can use the css file multiple time, just link the pages with it and it will apply 
 
 ======================================================================
 
@@ -100,13 +100,13 @@ PART 3: JAVASCRIPT CONNECTION
 
 11. In your own words, what can JavaScript do?
 
-ANSWER:
+ANSWER: It works with data, do complex operations. amkes the page works dynamically 
 
 ======================================================================
 
 12. Are JavaScript and Java the same language?
 
-ANSWER:
+ANSWER: No
 
 ======================================================================
 
